@@ -22,4 +22,5 @@ Drag the mouse back to adjust power and adjust the position with the slider give
 Shoot the points are calculated in the inspector menu.
 Due to an older version of unity 3d used some bugs will be resolved after a few updates push.
 A video of the gameplay will be provided.**
+![image](https://github.com/Dr0nacharya/Nudge--Carrom/assets/78855081/9cc7d0bd-cad7-44c6-95ff-4774b58b1061)
 
