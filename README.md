@@ -14,12 +14,12 @@ AI Functionality: Create a single-player game where the bot is capable of taking
 
 Assets: https://drive.google.com/drive/folders/1IrjWe2swTRSlMy4zucnxs1S5XqMKnFK2?usp=share_link
 ---------------------------------------------------------------------------------------------------------------------------------------
-Task Requirements except for the AI implementation everything else has been implemented.
+**Task Requirements except for the AI implementation everything else has been implemented.
 The standalone application is yet to be exported.
 All the physics elements have been implemented
 **Controls**
 Drag the mouse back to adjust power and adjust the position with the slider given below 
 Shoot the points are calculated in the inspector menu.
 Due to an older version of unity 3d used some bugs will be resolved after a few updates push.
-A video of the gameplay will be provided.
+A video of the gameplay will be provided.**
 
